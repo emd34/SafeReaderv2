@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:title="@string/settings"
+    android:id="@+id/settings">
+
+    <item
+        android:title="@string/night"
+        android:id="@+id/night">
+    </item>
+
+    <item
+        android:title="@string/brightness"
+        android:id="@+id/brightness">
+    </item>
+
+    <item
+        android:title="@string/autoscale"
+        android:id="@+id/autoscale">
+    </item>
+
+</menu>
