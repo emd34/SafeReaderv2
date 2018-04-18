@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "879203335616",
+    "firebase_url": "https://safereader-6e505.firebaseio.com",
+    "project_id": "safereader-6e505",
+    "storage_bucket": "safereader-6e505.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879203335616:android:c0acf87d741549c3",
+        "android_client_info": {
+          "package_name": "edu.fsu.cs.mobile.safereader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "879203335616-mdfb0p5ba13v8ashae5e91cl8m9p5jfd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIwKfEEfqliHUiPwehPpvAFMVtHWo1iQs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
